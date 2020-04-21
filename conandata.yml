@@ -1,0 +1,4 @@
+sources:
+  "0.3.2":
+    sha256: 8d1b8c2451add006f99fdcff07197bfc2e8972868d315243be06cfd0b1e879f5
+    url: https://github.com/digint/tinyfsm/archive/v0.3.2.tar.gz
