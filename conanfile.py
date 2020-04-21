@@ -22,3 +22,6 @@ class TinyfsmConan(ConanFile):
     def package(self):
         self.copy("*hpp", dst="include", src=os.path.join(self._source_subfolder, "include"))
         self.copy("COPYING", dst="licenses", src=self._source_subfolder)
+
+    def package_id(self):
+        self.info.header_only()
