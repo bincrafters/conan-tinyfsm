@@ -1,16 +1,4 @@
 sources:
-  "0.1.0":
-    sha256: 07cb5770b6de1056363a417033d0a76a7af18e3e45a9754a17815bfa60266881
-    url: https://github.com/digint/tinyfsm/archive/v0.1.0.tar.gz
-  "0.2.0":
-    sha256: 4f81cd35933b6b4d29f90e0fc50c6e3520adea463a6989a45e197d5ff6161005
-    url: https://github.com/digint/tinyfsm/archive/v0.2.0.tar.gz
-  "0.3.0":
-    sha256: 589d53936974bb2b66f8281731207691d95acfa4e022d8b4bd58c0ed5584353c
-    url: https://github.com/digint/tinyfsm/archive/v0.3.0.tar.gz
-  "0.3.1":
-    sha256: 9e295fec89536f0c3c0c88a6d4d9ecc4c25ed0ea3ff34d1f0a1341982ee7b182
-    url: https://github.com/digint/tinyfsm/archive/v0.3.1.tar.gz
   "0.3.2":
     sha256: 8d1b8c2451add006f99fdcff07197bfc2e8972868d315243be06cfd0b1e879f5
     url: https://github.com/digint/tinyfsm/archive/v0.3.2.tar.gz
